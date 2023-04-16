@@ -37,6 +37,9 @@ button {
 .equal-sign {
   height: 98%;
   grid-area: 2 / 4 / 6 / 5;
+  background-color: #f8f9fa;
+  border-color: #f8f9fa;
+  
 }
 
 .calculator-keys {
